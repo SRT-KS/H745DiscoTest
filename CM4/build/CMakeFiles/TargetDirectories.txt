@@ -1,0 +1,5 @@
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/CM4/build/CMakeFiles/H745DiscoTest_CM4.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/CM4/build/CMakeFiles/STM32_Drivers.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/CM4/build/CMakeFiles/USB_Device_Library.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/CM4/build/CMakeFiles/edit_cache.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/CM4/build/CMakeFiles/rebuild_cache.dir

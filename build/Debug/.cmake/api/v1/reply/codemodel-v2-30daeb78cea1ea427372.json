@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "H745DiscoTest",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "H745DiscoTest_CM4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H745DiscoTest_CM4-Debug-c218808cb2cf3dc707df.json",
+					"name" : "H745DiscoTest_CM4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H745DiscoTest_CM7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H745DiscoTest_CM7-Debug-379cb391a31c5dfa2eff.json",
+					"name" : "H745DiscoTest_CM7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug",
+		"source" : "/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

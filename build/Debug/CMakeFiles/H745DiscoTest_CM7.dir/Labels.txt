@@ -1,0 +1,13 @@
+# Target labels
+ H745DiscoTest_CM7
+# Source files and their labels
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/H745DiscoTest_CM7
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/H745DiscoTest_CM7.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/H745DiscoTest_CM7-complete.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-build.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-configure.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-download.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-install.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-mkdir.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-patch.rule
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CM7/src/H745DiscoTest_CM7-stamp/H745DiscoTest_CM7-update.rule

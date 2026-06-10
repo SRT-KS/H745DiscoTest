@@ -1,0 +1,4 @@
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/H745DiscoTest_CM4.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/H745DiscoTest_CM7.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/edit_cache.dir
+/home/koji/STM32CubeIDE/workspace_srt/H745DiscoTest/build/Debug/CMakeFiles/rebuild_cache.dir
